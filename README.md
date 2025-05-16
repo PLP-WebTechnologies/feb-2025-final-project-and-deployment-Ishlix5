@@ -23,3 +23,6 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+projectdeployed link
+https://chimerical-piroshki-053d21.netlify.app/
